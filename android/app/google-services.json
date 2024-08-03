@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786377728707",
+    "project_id": "notification-service-f851e",
+    "storage_bucket": "notification-service-f851e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786377728707:android:fb6e3bc1b493f08bcd7876",
+        "android_client_info": {
+          "package_name": "com.example.engaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_mNx5fgU7CHIyy6SD76jU8YhSlOcqNOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
